@@ -1,4 +1,4 @@
-build_image: drydock/u12pytall:prod
+build_image: drydock/u14pytpls:prod
 language: python
 python:
  - 2.6
